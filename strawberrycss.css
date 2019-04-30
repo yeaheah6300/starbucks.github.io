@@ -1,0 +1,54 @@
+
+html { width : 100%; height : 100%; margin : 0 ; padding : 0;
+    background-size: cover; text-align: center; background-repeat:no-repeat; }
+  body
+  {
+    background : url('./strawberry.jpg');
+    background-repeat: no-repeat;
+    width : 100%; height : 100%;
+    margin : 0 ; padding : 0;
+    background-size: cover; text-align: center;
+  }
+
+#title {
+    /* 폰트의 두께, 100 단위로 증가  */
+    font-weight : 500;
+    font-size : 60px;
+    color :#ef4485;
+    margin-top : 100px;
+    padding: 40px;
+    text-align: center;
+    margin : auto;
+    width : 600px;
+}
+#list-title{
+    background-color: pink;
+    width: 100%;
+}
+div{
+    display: table;
+    width: 100%;
+    font-weight : 500;
+    margin-left: auto;
+    margin-right: auto;
+    font-size : 20px;
+    padding-inline-start: 0px;
+    background-color: white;
+}
+
+hr{
+    background-color: #ef4489;
+    height: 5px;
+    border: 0;
+}
+#an p
+{
+    margin-bottom: 200px;
+}
+#answer
+{
+    background-color: pink;
+    padding: 30px;
+    margin: auto;
+
+}

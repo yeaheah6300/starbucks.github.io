@@ -1,0 +1,82 @@
+#top{
+    background-color: beige;
+}
+h1{
+    padding-left: 35px;
+}
+#coffee{
+    display:inline-block;
+}
+.line{
+    border: 1px solid grey;
+}
+#text{
+    display:inline-block;
+    width: 700px;
+    height: 500px;
+    vertical-align: top;
+    padding-left: 6px;
+}
+#image{
+    display:inline-block;
+    
+}
+#content{
+    padding-left: 35px;
+    height:550px;
+}
+.box{
+    border: 1px;
+}
+#bottom{
+    padding-left: 35px;
+    background-color: silver;
+    background-color: rgba(179, 168, 168, 0.4);
+}
+ul{
+    list-style: none;
+    display: inline-block;
+}
+.vl{
+    border-left: 2px solid grey;
+    height: 60px;
+    display: inline-block;
+    
+}
+.box{
+    border: 1px solid gainsboro;
+    background-color: gainsboro;
+    padding-top: 5px;
+    height: 30px;
+}
+.under{
+    padding-left:35px;
+}
+.right{
+    display: inline-block;
+    width:400px;
+    height:170px;
+    padding-left: 15px;
+    position : relative;
+    left: 150px;
+}
+.left{
+    display: inline-block;
+    height:170px;
+    width: 400px;
+    position: relative;
+    top: -85px;
+}
+.bot1{
+    height:205px;
+}
+.vl2{
+    border-left: 1px solid grey;
+    height:130px; display: inline-block; position: relative; left:150px;
+}
+.product1{
+    height: 250px; width:500px; display: inline-block;
+}
+.product2{
+    height: 250px; width:500px; display: inline-block;
+}
